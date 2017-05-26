@@ -1,0 +1,21 @@
+body {
+	background: url(https://i.ytimg.com/vi/dS5PY6f3G2E/maxresdefault.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+section {
+    color: #969687;
+    border: 3px solid;
+    border-radius: 25px;
+    }
+
+.pageheader{
+  font-size: 35px;
+  margin-left: 530px;
+}
+
+.header{
+  text-align: center;
+}
